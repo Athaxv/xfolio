@@ -60,7 +60,7 @@ export const Navbar: React.FC = () => {
           `}
         >
             <div className="flex items-center gap-2">
-              <a href="#" className={`font-serif-italic font-bold tracking-tight text-black dark:text-white transition-all duration-300 ${isScrolled ? 'text-xl' : 'text-2xl'}`}>TN</a>
+              <a href="#" className={`font-serif-italic font-bold tracking-tight text-black dark:text-white transition-all duration-300 ${isScrolled ? 'text-xl' : 'text-2xl'}`}>AG</a>
             </div>
 
             <div className="hidden md:flex items-center gap-8">

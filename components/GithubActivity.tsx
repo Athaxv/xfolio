@@ -39,7 +39,7 @@ export const GithubActivity: React.FC = () => {
               <h2 className="text-4xl md:text-5xl text-black dark:text-white leading-tight">
                 <span className="font-serif-italic mr-3">GitHub</span>
                 <span className="font-light text-neutral-500 dark:text-neutral-300">Activity</span>
-                <span className="block text-lg font-mono text-neutral-500 mt-2 font-normal">@tusharn3115</span>
+                <span className="block text-lg font-mono text-neutral-500 mt-2 font-normal">@atharvgaur</span>
               </h2>
           </div>
           <a href="https://github.com" target="_blank" className="hidden md:flex items-center gap-2 text-sm text-neutral-500 dark:text-neutral-400 hover:text-black dark:hover:text-white transition-colors">
@@ -49,7 +49,7 @@ export const GithubActivity: React.FC = () => {
 
       <div className="w-full">
         {/* Heatmap Column */}
-        <div className="w-full bg-white dark:bg-[#0a0a0a] border border-neutral-200 dark:border-neutral-800 rounded-xl p-6 md:p-8 overflow-hidden shadow-sm">
+        <div className="w-full overflow-hidden">
           <div className="flex items-center gap-3 mb-6">
              <GitCommit size={20} className="text-neutral-400" />
              <h3 className="text-lg font-medium text-black dark:text-white">Contribution Graph</h3>

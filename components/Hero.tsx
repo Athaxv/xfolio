@@ -35,7 +35,7 @@ export const Hero: React.FC = () => {
       {/* Intro Text */}
       <div className="mt-16 md:ml-12 animate-fade-in-up" style={{ animationDelay: '0.1s' }}>
         <div className="flex items-center gap-2 mb-2">
-          <h1 className="text-3xl font-serif-italic font-semibold text-black dark:text-white">Tushar Negi</h1>
+          <h1 className="text-3xl font-serif-italic font-semibold text-black dark:text-white">Atharv Gaur</h1>
           <BadgeCheck size={20} className="text-white fill-blue-500" />
           <span className="text-neutral-500 text-sm ml-2">•</span>
           <span className="text-neutral-500 dark:text-neutral-400 text-sm border-b border-neutral-300 dark:border-neutral-800 pb-0.5">I am from India</span>

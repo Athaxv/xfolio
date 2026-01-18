@@ -23,7 +23,7 @@ export const Contact: React.FC = () => {
              I'm currently available for freelance projects and open to new opportunities.
            </p>
 
-           <a href="mailto:hello@tusharnegi.com" className="group flex items-center gap-3 px-8 py-4 bg-black dark:bg-white text-white dark:text-black rounded-full font-medium transition-transform hover:scale-105">
+           <a href="mailto:hello@atharvgaur.com" className="group flex items-center gap-3 px-8 py-4 bg-black dark:bg-white text-white dark:text-black rounded-full font-medium transition-transform hover:scale-105">
              Say Hello
              <ArrowRight size={18} className="group-hover:translate-x-1 transition-transform" />
            </a>
